@@ -14,9 +14,7 @@
     "tailwindcss/classnames-order": "error"
   },
   "settings": {
-    "tailwindcss": {
-      "callees": ["cn"]
-    },
+   
     "next": {
       "rootDir": true
     }

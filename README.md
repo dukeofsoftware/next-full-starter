@@ -2,7 +2,7 @@
 #### Başlarken
 
 ```
-pnpx  create-next-app -e https://github.com/dukeofsoftware/next-project-starter
+pnpx  create-next-app -e https://github.com/dukeofsoftware/next-full-starter
 ```
 
 #### Projenin otomatik olarak her committe yayınlanması için ayarlar (CI/CD)
